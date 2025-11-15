@@ -103,4 +103,6 @@ Whether it's crafting clean UIs, designing robust backend logic, or integrating 
 
 <h3 align="left">🐍 Watch My Contributions Snake:</h3>
 
+![Contribution snake example](https://github.com/Aditya-Shukla4/Aditya-Shukla4/blob/output/github-contribution-grid-snake.svg)
+
 ---
