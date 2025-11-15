@@ -16,34 +16,145 @@ Whether it's crafting clean UIs, designing robust backend logic, or integrating 
 • 💬 Ask me about HTML, CSS, JavaScript, React, Next.js, Node.js, Express, MongoDB, or building end-to-end app logic.
 • 📬 Connect with me on LinkedIn for web dev discussions, project ideas, or collaboration opportunities.
 
----
+🌟 Portfolio Highlights: Full-Stack Web Development Projects
 
-<h3 align="left">🤝 Let's Connect:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aditya-shukla-9644ab33b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://github.com/Aditya-Shukla4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
+Below are the projects that represent my strongest work across frontend, backend, real-time systems, and automation.
 
----
+1. 🤝 Collab-verse — Match, Code & Collaborate With Developers
 
-## 🌟 Portfolio Highlights: Projects & ML Demonstrations
+A web platform that helps developers find perfect teammates for projects, hackathons, and collaborative learning — with real-time chat, skill-based matching, and a built-in code compiler.
 
-These projects reflect my hands-on experience in building and deploying various machine learning and data-centric applications. Each project showcases a distinct set of skills, from data manipulation to model evaluation and deployment.
+📝 Description
 
-### 1. 👁 DeepFake Video Detection System
-A robust classification model utilizing advanced Computer Vision techniques to discern authentic videos from sophisticated deepfakes.
+Collab-verse matches developers based on shared skills and project goals. With GitHub-verified profiles, real-time chat rooms, and a Docker-powered compiler service, it lets users move from matching to building instantly.
 
-| Tech Stack | Model Type | Status | Demo/Link |
-| :---: | :---: | :---: | :---: |
-| ⁠ Python ⁠, ⁠ TensorFlow ⁠, ⁠ OpenCV ⁠ | Convolutional Neural Networks (CNNs), Transfer Learning | **Completed | [Project Repository / Demo Video] |
+🚀 Live Demo
 
-	⁠*Key Skills Demonstrated:* Advanced Computer Vision, Video Preprocessing pipelines, Model Fine-tuning, RESTful API Development (Flask).
-	⁠*(📌 ACTION: Replace description and links with your actual project details.)*
+https://collab-verse.vercel.app/
 
----
+🛠 Tech Stack
 
-### 2. 📈 E-Commerce Sales Forecasting Engine
-An analytical engine designed to provide accurate future sales predictions for retail businesses using time-series methodologies.
+Frontend: React, Next.js
+
+Backend: Node.js, Express.js
+
+Database: MongoDB
+
+Real-time: Socket.io
+
+Compiler Service: Docker (containerized microservice)
+
+Languages: JavaScript, CSS
+
+✨ Key Features
+
+Skill-based collaborator matching
+
+GitHub profile verification
+
+Real-time chat between matched users
+
+In-browser code compilation (compiler-service)
+
+Project/Hackathon listings
+
+Clean, modular microservice architecture
+
+2. 🛡️ PhishingShield — Real-Time Anti-Phishing Browser Extension
+
+A powerful, multi-layered browser extension that analyzes URLs in real time and blocks dangerous websites using heuristics, APIs, and structural analysis.
+
+📝 Description
+
+PhishingShield scans URLs through a 4-layer detection pipeline: user-defined lists, Google Safe Browsing, WHOIS domain-age checks, and heuristic analysis.
+It provides threat scores, a detailed report card, and a clean UI to manage whitelists/blacklists.
+
+🛠 Core Features
+
+Multi-layered detection (Whitelist, Safe Browsing API, Whois, Heuristics)
+
+Dynamic icon + threat score badge
+
+Detailed security report popup
+
+Real-time scan history
+
+Clean settings/control panel
+
+Organized, async/await optimized codebase
+
+🧠 Detection Logic Includes:
+
+URL structure anomaly checks
+
+Length & subdomain analysis
+
+IP-based URL flagging
+
+Homograph (Unicode) detection
+
+Keyword impersonation detection
+
+🔧 Tech Stack
+
+JavaScript
+
+HTML, CSS
+
+Browser APIs: chrome.tabs, chrome.storage, chrome.runtime, etc.
+
+3. 📑 SS Insurance Manager — Full Insurance Management System (MVP v2.0)
+
+A complete internal tool built for real insurance operations: client onboarding, policy tracking, renewal alerts, secure dashboards, and automated backend jobs.
+
+📝 Description
+
+A production-grade system built using Next.js + Supabase, designed for real-world use.
+Includes admin tools, client dashboards, automation workflows, and secure database logic.
+
+🧱 Core Achievements (MVP v2.0)
+
+Public Website: Fully built landing page (Hero, Services, Photos, Testimonials, FAQs, Contact)
+
+Auth System: Login, Signup, & secure middleware
+
+Role-Based Dashboards: Admin vs Client views
+
+Admin Modules:
+
+Add/Edit/Delete clients
+
+Manage policies
+
+Client Module:
+
+View their policies only (secured via RLS)
+
+Renewal Alerts:
+
+Automatic fetching of 7-day and 30-day renewals
+
+Automation Engine:
+
+Supabase Edge Function (renewal-checker)
+
+Scheduled via pg_cron
+
+Secure notifications table with RLS
+
+🛠 Tech Stack (Web + Backend + Automation)
+
+Next.js 14 (App Router)
+
+TailwindCSS
+
+shadcn/ui
+
+Supabase (Auth, DB, RLS, Functions, Cron)
+
+Postgres
+
+TypeScript
 
 # 💻 Tech Stack
 
