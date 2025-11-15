@@ -104,9 +104,9 @@ Whether it's crafting clean UIs, designing robust backend logic, or integrating 
 <h3 align="left">🐍 Watch My Contributions Snake:</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyasai2004/divyasai2004/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyasai2004/divyasai2004/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/divyasai2004/divyasai2004/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aditya-Shukla4/aditya-shukla4/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aditya-Shukla4/aditya-shukla4/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aditya-shukla4/Aditya-Shukla4/output/github-snake.svg" />
 </picture>
 
 ---
