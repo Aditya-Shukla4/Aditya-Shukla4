@@ -16,145 +16,31 @@ Whether it's crafting clean UIs, designing robust backend logic, or integrating 
 • 💬 Ask me about HTML, CSS, JavaScript, React, Next.js, Node.js, Express, MongoDB, or building end-to-end app logic.
 • 📬 Connect with me on LinkedIn for web dev discussions, project ideas, or collaboration opportunities.
 
-🌟 Portfolio Highlights: Full-Stack Web Development Projects
+---
+<h3 align="left">🧩 Featured Projects:</h3>
 
-Below are the projects that represent my strongest work across frontend, backend, real-time systems, and automation.
+### 🤝 [Collab-verse](https://collab-verse.vercel.app/)
 
-1. 🤝 Collab-verse — Match, Code & Collaborate With Developers
+> A developer matchmaking & collaboration platform that helps you find the perfect teammate for projects and hackathons.
+> Built using Next.js, Node.js, Express, MongoDB, Socket.io, and a Docker-based compiler microservice.
+> Features: Skill-based matching, GitHub verification, real-time chat, in-browser code compilation, and project listings.
+> ⚙️ *Frontend: Vercel | Backend: Node/Express | Compiler: Docker Microservice*
 
-A web platform that helps developers find perfect teammates for projects, hackathons, and collaborative learning — with real-time chat, skill-based matching, and a built-in code compiler.
+### 🛡️ PhishingShield
 
-📝 Description
+> A real-time anti-phishing browser extension that analyzes every URL through a multi-layered security pipeline.
+> Built with JavaScript, HTML/CSS, Google Safe Browsing API, WHOIS API, and custom heuristics.
+> Features: Threat score, dynamic icon, security report popup, scan history, whitelist/blacklist system.
+> ⚙️ *Runs natively as a Chrome/Brave browser extension*
 
-Collab-verse matches developers based on shared skills and project goals. With GitHub-verified profiles, real-time chat rooms, and a Docker-powered compiler service, it lets users move from matching to building instantly.
+### 📑 SS Insurance Manager
 
-🚀 Live Demo
+> A production-ready insurance management system built for real operations—clients, policies, renewals & automation.
+> Developed using Next.js 14, TailwindCSS, shadcn/ui, Supabase, Postgres, and Edge Functions.
+> Features: Role-based dashboards, secure RLS, renewal alerts, automated cron jobs, and policy management tools.
+> ⚙️ *Frontend: Next.js (Vercel) | Backend + DB: Supabase | Automation: Edge Functions + pg_cron*
 
-https://collab-verse.vercel.app/
-
-🛠 Tech Stack
-
-Frontend: React, Next.js
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-Real-time: Socket.io
-
-Compiler Service: Docker (containerized microservice)
-
-Languages: JavaScript, CSS
-
-✨ Key Features
-
-Skill-based collaborator matching
-
-GitHub profile verification
-
-Real-time chat between matched users
-
-In-browser code compilation (compiler-service)
-
-Project/Hackathon listings
-
-Clean, modular microservice architecture
-
-2. 🛡️ PhishingShield — Real-Time Anti-Phishing Browser Extension
-
-A powerful, multi-layered browser extension that analyzes URLs in real time and blocks dangerous websites using heuristics, APIs, and structural analysis.
-
-📝 Description
-
-PhishingShield scans URLs through a 4-layer detection pipeline: user-defined lists, Google Safe Browsing, WHOIS domain-age checks, and heuristic analysis.
-It provides threat scores, a detailed report card, and a clean UI to manage whitelists/blacklists.
-
-🛠 Core Features
-
-Multi-layered detection (Whitelist, Safe Browsing API, Whois, Heuristics)
-
-Dynamic icon + threat score badge
-
-Detailed security report popup
-
-Real-time scan history
-
-Clean settings/control panel
-
-Organized, async/await optimized codebase
-
-🧠 Detection Logic Includes:
-
-URL structure anomaly checks
-
-Length & subdomain analysis
-
-IP-based URL flagging
-
-Homograph (Unicode) detection
-
-Keyword impersonation detection
-
-🔧 Tech Stack
-
-JavaScript
-
-HTML, CSS
-
-Browser APIs: chrome.tabs, chrome.storage, chrome.runtime, etc.
-
-3. 📑 SS Insurance Manager — Full Insurance Management System (MVP v2.0)
-
-A complete internal tool built for real insurance operations: client onboarding, policy tracking, renewal alerts, secure dashboards, and automated backend jobs.
-
-📝 Description
-
-A production-grade system built using Next.js + Supabase, designed for real-world use.
-Includes admin tools, client dashboards, automation workflows, and secure database logic.
-
-🧱 Core Achievements (MVP v2.0)
-
-Public Website: Fully built landing page (Hero, Services, Photos, Testimonials, FAQs, Contact)
-
-Auth System: Login, Signup, & secure middleware
-
-Role-Based Dashboards: Admin vs Client views
-
-Admin Modules:
-
-Add/Edit/Delete clients
-
-Manage policies
-
-Client Module:
-
-View their policies only (secured via RLS)
-
-Renewal Alerts:
-
-Automatic fetching of 7-day and 30-day renewals
-
-Automation Engine:
-
-Supabase Edge Function (renewal-checker)
-
-Scheduled via pg_cron
-
-Secure notifications table with RLS
-
-🛠 Tech Stack (Web + Backend + Automation)
-
-Next.js 14 (App Router)
-
-TailwindCSS
-
-shadcn/ui
-
-Supabase (Auth, DB, RLS, Functions, Cron)
-
-Postgres
-
-TypeScript
+---
 
 # 💻 Tech Stack
 
