@@ -1,19 +1,20 @@
 <h1 align="center">👋 Hi there, I'm Aditya Shukla!</h1>
-<h3 align="center">🧠 Aspiring Data Scientist | ML Engineer | Building Intelligence into Systems 💡</h3>
+<h3 align="center">🌐 Full-Stack Web Developer — Building Production-Ready Frontends & Backends</h3>
 
 
 
 ---
 
-## 🚀 Mission Statement: From Raw Data to Intelligent Solutions
+## 🚀 Mission Statement: From Ideas to Fully-Functional Web Applications
 
-I am a passionate and driven technologist dedicated to building intelligent systems by leveraging the power of data and machine learning. My expertise lies in navigating the entire ML lifecycle—from intricate data wrangling and advanced model development to robust deployment strategies. I thrive on transforming complex problems into elegant, scalable, and impactful AI-driven solutions.
+I’m a dedicated full-stack web developer who loves building fast, modern, and scalable web applications.  
+Whether it's crafting clean UIs, designing robust backend logic, or integrating complex APIs, I focus on writing code that is practical, efficient, and easy to maintain.
 
-•⁠  ⁠🌱 Currently immersing myself in MLOps best practices (Docker, Kubernetes, CI/CD) and exploring cutting-edge Generative AI architectures (LLMs, Diffusion Models).
-•⁠  ⁠💡 Actively investigating the application of Reinforcement Learning for dynamic optimization problems and autonomous systems.
-•⁠  ⁠👀 Eager to collaborate on challenging projects involving Computer Vision, Time Series Forecasting, Natural Language Processing, or the design of resilient **data pipelines.
-•⁠  ⁠💬 Feel free to ask me about Python, Data Analysis, Scikit-learn, TensorFlow/Keras, PyTorch, or deploying ML models with Flask/FastAPI.
-•⁠  ⁠📬 Connect with me on *[LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN-URL](https://www.linkedin.com/in/aditya-shukla-9644ab33b/))* for professional discussions and collaboration opportunities.
+• 🌱 Currently deepening my skills in full-stack development with React, Next.js, Node.js, Express, and modern JavaScript.
+• ⚙️ Actively exploring backend architecture patterns, authentication flows, REST APIs, and database optimization.
+• 👀 Open to collaborating on complete full-stack projects — from frontend interfaces to backend systems and deployment pipelines.
+• 💬 Ask me about HTML, CSS, JavaScript, React, Next.js, Node.js, Express, MongoDB, or building end-to-end app logic.
+• 📬 Connect with me on LinkedIn for web dev discussions, project ideas, or collaboration opportunities.
 
 ---
 
@@ -44,49 +45,39 @@ A robust classification model utilizing advanced Computer Vision techniques to d
 ### 2. 📈 E-Commerce Sales Forecasting Engine
 An analytical engine designed to provide accurate future sales predictions for retail businesses using time-series methodologies.
 
-| Tech Stack | Model Type | Status | Demo/Link |
-| :---: | :---: | :---: | :---: |
-| ⁠ Python ⁠, ⁠ Pandas ⁠, ⁠ Prophet ⁠, ⁠ Streamlit ⁠ | Time Series Analysis (ARIMA, Prophet) | In Progress | [Live Streamlit Dashboard] |
+# 💻 Tech Stack
 
-	⁠*Key Skills Demonstrated:* Complex Feature Engineering for Time Series, Handling Seasonality & Trends, Robust Model Validation, Interactive Data Visualization & Dashboarding (Streamlit).
-	⁠*(📌 ACTION: Replace description and links with your actual project details.)*
+## 🚀 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
----
+## 🛠 Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-### 3. 💬 Context-Aware Conversational AI (NLP Chatbot)
-A sophisticated chatbot capable of engaging in multi-turn conversations with contextual memory, enhancing user interaction.
+## 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-| Tech Stack | Model Type | Status | Demo/Link |
-| :---: | :---: | :---: | :---: |
-| ⁠ Python ⁠, ⁠ NLTK/SpaCy ⁠, ⁠ TensorFlow/GPT API ⁠ | Natural Language Processing (NLP), Sequence Models, Embeddings | **Completed | [Try the Live Bot] |
+## ⚡ Tools & Deployment
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  <!-- (learning) -->
 
-	⁠*Key Skills Demonstrated:* Advanced Text Preprocessing, Word/Sentence Embeddings, Designing Conversational Flows, Cloud AI API Integration.
-	⁠*(📌 ACTION: Replace description and links with your actual project details.)*
+## 🧰 Other Useful Skills
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
----
-
-<h3 align="left">🛠 Core ML & Development Stack:</h3>
-
-| Category        | Primary Tools                                                                                                                                                                                                                                                                    | Secondary Tools                                                                                                                                                                                                                                |
-| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Data Science | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) &nbsp; ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) &nbsp; ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)         |
-| Deep Learning | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) &nbsp; ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) &nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23ffb300.svg?style=for-the-badge&logo=Hugging%20Face&logoColor=black)                                                                                                              |
-| Deployment | ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) &nbsp; ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) &nbsp; ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) &nbsp; ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| Visualization | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=Matplotlib&logoColor=white) &nbsp; ![Seaborn](https://img.shields.io/badge/Seaborn-43a9a1?style=for-the-badge&logo=Seaborn&logoColor=white) | ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)                                                                                                                                      |
-
----
-
-<h3 align="left">⚙ Development & MLOps Toolchain:</h3>
-
-![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) &nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) &nbsp;
-![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) &nbsp;
-![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) &nbsp;
-![Trello](https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=Trello&logoColor=white) &nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) &nbsp;
-
----
 
 <h3 align="left">📊 GitHub Contributions & Analytics:</h3>
 
